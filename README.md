@@ -1,1 +1,1 @@
-Run this project through -superherohunter190820.netlify.app
+Run this project through -https://superherohunter190820.netlify.app
